@@ -35,3 +35,22 @@ Function
 # Operadores
 
 Operadores de atribuição de valores
+Operador de concatenação
+
+## Estrutura de dados:
+
+### Arrays:
+
+Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+Atributos e métodos
+Criação e manipulação de objetos 
+Acesso a propriedades de objetos
+
+### Functions 
+
+Criar funções, receber parametros
+Executar
+Arrow function / Named Functions
