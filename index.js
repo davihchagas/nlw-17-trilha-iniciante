@@ -8,7 +8,7 @@ let metas
 const carregarMetas = async () => {
     try {
         const dados = await fs.readFile("metas.json", "utf-8")
-        metas = JSON.parse(dados)
+        metas = JSON.parse(dados);
     }
     catch(erro){
         metas = []

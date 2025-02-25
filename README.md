@@ -43,4 +43,4 @@ Goal Tracker is a simple and interactive command-line application for managing p
 This project is licensed under the MIT License.
 
 ## 💡 Credits
-Made with ❤️ by Davi.
+Made with ❤️ by Davi
